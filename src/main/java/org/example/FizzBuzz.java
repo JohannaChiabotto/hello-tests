@@ -1,2 +1,9 @@
-package org.example;public class FizzBuzz {
+package org.example;
+
+public class FizzBuzz {
+
+    public static String fizzBuzz(int number){
+
+        return String.valueOf(number);
+    }
 }

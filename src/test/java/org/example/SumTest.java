@@ -12,12 +12,13 @@ class SumTest {
         // Was ist gegeben? "GIVEN" - Daten die uns vorliegen
         int a = 1;
         int b =1;
-        int expectedResult = 2;
+        int expectedResult = a +b; //2
 
         // Wenn... "WHEN" - Hier lassen wir die Methode laufen
         int result = Sum.sum(a, b);
 
         //Läuft es wie es soll? "THEN"
+        //Assertions = Sicherstellung helfen, das Ergebnis sicherzustellen
         assertEquals(expectedResult, result);
     }
 

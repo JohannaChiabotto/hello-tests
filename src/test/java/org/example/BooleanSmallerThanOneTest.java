@@ -4,7 +4,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class BooleanTest {
+public class BooleanSmallerThanOneTest {
+
     @Test
     void booleanSmallerThanOne() {
 
@@ -15,11 +16,13 @@ public class BooleanTest {
 
         //        "WHEN"
         // WENN ...  - Was wir testen wollen, rufen wir hier auf
-        boolean result = Boolean.booleans(value);
+        boolean result = BooleanSmallerThanOne.booleanSmallerThanOne(value);
 
         //        THEN
         // LÄUFT ES WIE ES SOLL? - "THEN"
         assertEquals(expectedResult, result);
     }
 }
-}
+
+
+
