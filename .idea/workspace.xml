@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e962de8f-958e-4f03-ba2d-61a6be7e2faa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Compare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Compare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BooleanSmallerThanOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BooleanSmallerThanOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CompareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CompareTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BooleanSmallerThanOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/BooleanSmallerThanOneTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/FizzBuzzTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/SumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/SumTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="e962de8f-958e-4f03-ba2d-61a6be7e2faa" name="Changes" comment="update sout" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
